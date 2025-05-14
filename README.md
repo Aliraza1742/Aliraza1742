@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliraza1742&label=Profile%20views&color=0e75b6&style=flat" alt="aliraza1742" /> </p>
 
-- 🌱 I’m currently learning front-end development. **React,Tailwind**
+- 🌱 I’m currently learning about **Cloud Services**
 
 - 💬 Ask me about **Any Data analysis tasks or queries.**
 
