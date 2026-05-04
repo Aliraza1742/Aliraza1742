@@ -20,8 +20,7 @@
 ### About Me
 
 - Computer Science Graduate (2025)
-- - 💼 سابق Software Engineering Intern @ **iClosed (Remote)**  
- 
+<li> سابق Software Engineering Intern @ <b>iClosed (Remote)</b></li> 
 - Built **6+ scalable mobile applications**  
 - Delivered **clean, modular, production-ready codebases**  
 - Currently exploring **Vibe Coding & Data Enigineering**
