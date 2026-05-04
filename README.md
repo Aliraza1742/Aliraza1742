@@ -19,19 +19,19 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Science Graduate (2025)  
+- Computer Science Graduate (2025)  
 - 💼 سابق Software Engineering Intern @ **iClosed (Remote)**  
-- 📱 Built **6+ scalable mobile applications**  
-- ⚡ Improved app performance & stability by **30%**  
-- 🔗 Delivered **clean, modular, production-ready codebases**  
-- 🌱 Currently exploring **Cloud Architecture & System Design**
+- Built **6+ scalable mobile applications**  
+- Improved app performance & stability by **30%**  
+- Delivered **clean, modular, production-ready codebases**  
+- Currently exploring **Vibe Coding**
 
 ---
 
 ### 🎯 Current Focus
 
-- 🚀 Building production-level React Native apps  
-- 🧠 Learning system design & scalable backend patterns  
+- Building production-level React Native apps.
+- Learning system design & scalable backend patterns.
 ---
 
 ### Core Expertise
@@ -47,7 +47,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,reactnative,nodejs,express,mongodb,mysql,supabase,firebase,tailwind,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,reactnative,nodejs,express,mongodb,mysql,supabase,firebase,tailwind,git,github,figma,postman,azure,firebase,flutter,matlab,netlify,opencv,postman,sklearn,vercel,wordpress" />
 </p>
 
 ---
@@ -86,5 +86,4 @@
 
 ### ⚡ Engineering Mindset
 
-> I focus on building scalable, maintainable systems — not just features.  
-> Clean code, real-world impact, and continuous learning drive my work.
+> I focus on building scalable, maintainable systems.  
