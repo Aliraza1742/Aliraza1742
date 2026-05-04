@@ -44,7 +44,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -82,6 +82,6 @@
 
 ---
 
-### ⚡ Engineering Mindset
+### Engineering Mindset
 
 > I focus on building scalable, maintainable systems.  
