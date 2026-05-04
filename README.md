@@ -15,12 +15,13 @@
 
 ---
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="coding" width="300" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 ### About Me
 
-- Computer Science Graduate (2025)  
-- 💼 سابق Software Engineering Intern @ **iClosed (Remote)**  
+- Computer Science Graduate (2025)
+- - 💼 سابق Software Engineering Intern @ **iClosed (Remote)**  
+ 
 - Built **6+ scalable mobile applications**  
 - Delivered **clean, modular, production-ready codebases**  
 - Currently exploring **Vibe Coding & Data Enigineering**
