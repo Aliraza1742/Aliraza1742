@@ -1,79 +1,79 @@
-<h1 align="center">Hi 👋, I'm Ali Raza</h1>
-<h3 align="center">Mobile App Developer | MERN Stack Developer | CS Graduate</h3>
+<h1 align="center">Ali Raza</h1>
+<h3 align="center">Mobile App Developer | MERN Stack Engineer /h3>
 
-<img align="right" alt="coding" width="350" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aliraza1742&label=Profile%20views&color=0e75b6&style=flat" alt="aliraza1742" />
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=aliraza1742">
+    <img src="https://komarev.com/ghpvc/?username=aliraza1742&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+  <a href="https://github.com/Aliraza1742">
+    <img src="https://img.shields.io/github/followers/Aliraza1742?label=Followers&style=social" />
+  </a>
 </p>
 
 ---
 
-### 🚀 About Me
+<img align="right" alt="coding" width="320" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-- 🎓 Computer Science Graduate (2025)
-- 💼 سابق Software Engineering Intern @ iClosed (Remote)
-- 📱 6+ Mobile Apps built using React Native
-- ⚡ Focused on building scalable, real-world applications
-- 🌱 Currently exploring **Cloud Services & System Design**
+### 👨‍💻 About Me
 
----
-
-### Ask Me About
-
-- React Native Development  
-- MERN Stack Applications  
-
+- 🎓 Computer Science Graduate (2025)  
+- 💼 Software Engineering Intern @ **iClosed (Remote)**  
+- 📱 Built **6+ production-level mobile apps** using React Native  
+- ⚙️ Strong focus on **scalable architecture & clean code**  
+- 🌱 Currently exploring **Data Engineering and **  
 
 ---
 
-### Contact Me
+### 🧠 Core Expertise
 
-- 📧 **Email:** aliraza.174200@gmail.com  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/aliraza174/  
-- 💻 **GitHub:** https://github.com/Aliraza1742  
+- 📱 Cross-platform Mobile Development (React Native)
+- 🌐 Full Stack Development (MERN)
+- 🔗 REST API Integration & Backend Systems
+- 📊 Data Analytics (Python)
+- 🧩 Type-safe Development using TypeScript
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,reactnative,nodejs,express,mongodb,mysql,supabase,firebase,tailwind,git,github,figma,cursor,antigravity,claude,scikitlearn" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aliraza1742&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aliraza1742&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliraza1742&layout=compact&hide_border=true" />
+</p>
 
 ---
 
 ### 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/aliraza174/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/razoooo__1742003" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
+<p align="center">
+  <a href="mailto:aliraza.174200@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aliraza174/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Aliraza1742">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### ⚡ Philosophy
 
-<p align="center">
-  
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,reactnative,nodejs,mongodb,mysql,tailwind,firebase,git,github,figma" />
-
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aliraza1742&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aliraza1742" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aliraza1742&layout=compact" />
-</p>
-
----
-
-### ⚡ Fun Fact
-
-I enjoy turning ideas into real-world applications 🚀
+> Building real-world products with clean architecture, scalable systems, and meaningful user impact.
