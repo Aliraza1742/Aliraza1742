@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+scalable+mobile+applications+%F0%9F%93%B1;React+Native+%7C+MERN+Stack+%7C+TypeScript;Clean+code.+Strong+architecture.+Real+impact." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+Full-stack+applications+%F0%9F%93%B1;Clean+code.+Strong+architecture.+Real+impact." alt="Typing SVG" />
 </p>
 
 <!-- Badges -->
@@ -16,8 +16,6 @@
   <a href="https://github.com/Aliraza1742?tab=followers">
     <img src="https://img.shields.io/github/followers/Aliraza1742?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-React%20Native-0e75b6?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/CS%20Graduate-2025-0e75b6?style=flat-square" alt="CS Graduate" />
 </p>
 
 <br/>
@@ -25,24 +23,22 @@
 ---
 
 <!-- About Me -->
-<img align="right" alt="Coding" width="260" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 ### 🧑‍💻 About Me
 
-- 🎓 **Computer Science Graduate** — Class of 2025
-- 💼 **Former SWE Intern** @ iClosed *(Remote)* — Built 6+ production mobile apps
-- 🏗️ Delivered **clean, modular, production-ready** codebases at scale
-- 🔭 Currently exploring **Vibe Coding** and **Data Engineering**
-- ⚡ I obsess over architecture, performance, and writing code that lasts
+-  **Computer Science Graduate** — Class of 2025
+-  **Former SWE Intern** @ iClosed *(Remote)* — Built 6+ production mobile apps
+-  Delivered **clean, modular, production-ready** scalable codebases.
+-  Currently exploring **Vibe Coding** and **Data Engineering**
 
 <br/>
 
 ### 🎯 Currently Working On
 
 ```text
-📱  Production-level React Native applications
-📐  System design & scalable backend patterns
-📊  Data engineering workflows with Python
+Learning about building Production-level React Native applications
+System design & scalable backend patterns
 ```
 
 <br clear="right"/>
@@ -53,30 +49,30 @@
 
 <table>
   <tr>
-    <td><b>📱 Mobile</b></td>
+    <td><b> Mobile</b></td>
     <td>React Native — cross-platform, production-grade</td>
   </tr>
   <tr>
-    <td><b>🌐 Full Stack</b></td>
+    <td><b> Full Stack</b></td>
     <td>MERN Stack — MongoDB, Express, React, Node.js</td>
   </tr>
   <tr>
-    <td><b>⚙️ Backend</b></td>
+    <td><b>Backend</b></td>
     <td>REST APIs, Auth Systems, Data Handling</td>
   </tr>
   <tr>
-    <td><b>📊 Data</b></td>
+    <td><b>Data</b></td>
     <td>Python, Pandas, Analysis Workflows</td>
   </tr>
   <tr>
-    <td><b>✅ Quality</b></td>
+    <td><b>Quality</b></td>
     <td>TypeScript, Clean Architecture, Modular Design</td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,react,redux,nodejs,express,mongodb,mysql,supabase&perline=10" />
@@ -90,7 +86,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aliraza1742&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9" height="160" alt="GitHub Stats" />
@@ -107,7 +103,7 @@
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
 <p align="center">
   <a href="mailto:aliraza.174200@gmail.com">
