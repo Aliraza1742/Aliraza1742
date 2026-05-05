@@ -1,7 +1,7 @@
 <h1 align="center">Ali Raza</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;React+Native+Specialist;MERN+Stack+Engineer;Building+Scalable+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;React+Native+Specialist;MERN+Stack+Developer;Building+Scalable+Applications" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="280" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<img align="right" alt="Coding" width="380" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 ### 👨‍💻 About Me
 
