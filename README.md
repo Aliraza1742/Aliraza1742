@@ -1,37 +1,49 @@
-<h1 align="center">Ali Raza</h1>
+<!-- Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Ali%20Raza&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20MERN%20Stack%20Engineer&descAlignY=58&descSize=18&descColor=cce4f7" width="100%" />
+</div>
 
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;React+Native+Specialist;MERN+Stack+Developer;Building+Scalable+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+scalable+mobile+applications+%F0%9F%93%B1;React+Native+%7C+MERN+Stack+%7C+TypeScript;Clean+code.+Strong+architecture.+Real+impact." alt="Typing SVG" />
 </p>
 
+<!-- Badges -->
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=aliraza1742">
-    <img src="https://komarev.com/ghpvc/?username=aliraza1742&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=aliraza1742&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   </a>
-  &nbsp;
-  <a href="https://github.com/Aliraza1742">
-    <img src="https://img.shields.io/github/followers/Aliraza1742?label=Followers&style=social" alt="GitHub Followers" />
+  <a href="https://github.com/Aliraza1742?tab=followers">
+    <img src="https://img.shields.io/github/followers/Aliraza1742?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
   </a>
+  <img src="https://img.shields.io/badge/Focus-React%20Native-0e75b6?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/CS%20Graduate-2025-0e75b6?style=flat-square" alt="CS Graduate" />
 </p>
 
 <br/>
 
-<img align="right" alt="Coding" width="380" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+---
 
-### 👨‍💻 About Me
+<!-- About Me -->
+<img align="right" alt="Coding" width="260" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
-- 🎓 Computer Science Graduate **(2025)**
-- 💼 Former Software Engineering Intern @ **iClosed (Remote)**
-- 📱 Built **6+ scalable mobile applications** in production
-- 🏗️ Delivered **clean, modular, production-ready codebases** following industry standards
-- 🔍 Currently exploring **Vibe Coding & Data Engineering**
+### 🧑‍💻 About Me
+
+- 🎓 **Computer Science Graduate** — Class of 2025
+- 💼 **Former SWE Intern** @ iClosed *(Remote)* — Built 6+ production mobile apps
+- 🏗️ Delivered **clean, modular, production-ready** codebases at scale
+- 🔭 Currently exploring **Vibe Coding** and **Data Engineering**
+- ⚡ I obsess over architecture, performance, and writing code that lasts
 
 <br/>
 
-### 🎯 Current Focus
+### 🎯 Currently Working On
 
-- Building production-level **React Native** applications
-- Learning **system design** & scalable backend patterns
+```text
+📱  Production-level React Native applications
+📐  System design & scalable backend patterns
+📊  Data engineering workflows with Python
+```
 
 <br clear="right"/>
 
@@ -39,54 +51,81 @@
 
 ### 🧠 Core Expertise
 
-| Domain | Technologies |
-|---|---|
-| 📱 Mobile Development | React Native |
-| 🌐 Full Stack | MERN (MongoDB, Express, React, Node.js) |
-| ⚙️ Backend | REST APIs, Auth Systems, Data Handling |
-| 📊 Data | Python, Pandas, Analysis Workflows |
-| 🔷 Code Quality | TypeScript, Clean Architecture |
+<table>
+  <tr>
+    <td><b>📱 Mobile</b></td>
+    <td>React Native — cross-platform, production-grade</td>
+  </tr>
+  <tr>
+    <td><b>🌐 Full Stack</b></td>
+    <td>MERN Stack — MongoDB, Express, React, Node.js</td>
+  </tr>
+  <tr>
+    <td><b>⚙️ Backend</b></td>
+    <td>REST APIs, Auth Systems, Data Handling</td>
+  </tr>
+  <tr>
+    <td><b>📊 Data</b></td>
+    <td>Python, Pandas, Analysis Workflows</td>
+  </tr>
+  <tr>
+    <td><b>✅ Quality</b></td>
+    <td>TypeScript, Clean Architecture, Modular Design</td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,redux,nodejs,express,mongodb,mysql,supabase,firebase,tailwind,git,github,figma,postman,azure,flutter,vercel,netlify,opencv,sklearn,wordpress&perline=12" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,redux,nodejs,express,mongodb,mysql,supabase&perline=10" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,tailwind,git,github,figma,postman,azure,flutter,vercel,netlify&perline=10" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv,sklearn,wordpress&perline=10" />
 </p>
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aliraza1742&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliraza1742&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliraza1742&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9" height="160" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliraza1742&theme=default" alt="GitHub Profile Summary" />
+  <img src="https://streak-stats.demolab.com?user=aliraza1742&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliraza1742&theme=github_dark" alt="Contribution Summary" width="100%" />
 </p>
 
 ---
 
-### 🤝 Connect With Me
+### 🤝 Let's Connect
 
 <p align="center">
   <a href="mailto:aliraza.174200@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/aliraza174/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/Aliraza1742">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <i>"I focus on building scalable, maintainable systems — one clean commit at a time."</i>
-</p>
+<!-- Footer Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer&text=Clean+Code.+Real+Impact.&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%" />
+</div>
