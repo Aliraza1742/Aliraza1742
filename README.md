@@ -23,9 +23,9 @@
 ---
 
 <!-- About Me -->
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img align="right" alt="Coding" width="350" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
-### 🧑‍💻 About Me
+### About Me
 
 -  **Computer Science Graduate** — Class of 2025
 -  **Former SWE Intern** @ iClosed *(Remote)* — Built 6+ production mobile apps
@@ -34,7 +34,7 @@
 
 <br/>
 
-### 🎯 Currently Working On
+###  Currently Working On
 
 ```text
 Learning about building Production-level React Native applications
@@ -45,7 +45,7 @@ System design & scalable backend patterns
 
 ---
 
-### 🧠 Core Expertise
+###  Core Expertise
 
 <table>
   <tr>
@@ -98,7 +98,7 @@ System design & scalable backend patterns
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliraza1742&theme=github_dark" alt="Contribution Summary" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliraza1742&theme=github_dark" alt="Contribution Summary" width="60%" />
 </p>
 
 ---
