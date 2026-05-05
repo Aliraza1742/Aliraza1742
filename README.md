@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+Full-stack+applications+%F0%9F%93%B1;Clean+code.+Strong+architecture.+Real+impact." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+Full-stack+applications;Clean+code.+Strong+architecture.+Real+impact." alt="Typing SVG" />
 </p>
 
 <!-- Badges -->
@@ -88,10 +88,6 @@ System design & scalable backend patterns
 
 ###  GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliraza1742&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliraza1742&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9" height="160" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aliraza1742&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="GitHub Streak" />
