@@ -54,7 +54,7 @@ System design & scalable backend patterns
   </tr>
   <tr>
     <td><b> Full Stack</b></td>
-    <td>MERN Stack — MongoDB, Express, React, Node.js</td>
+    <td>MERN Stack (MongoDB, Express, React, Node.js) </td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
