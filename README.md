@@ -23,14 +23,14 @@
 ---
 
 <!-- About Me -->
-<img align="right" alt="Coding" width="350" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img align="right" alt="Coding" width="330" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 ### About Me
 
 -  **Computer Science Graduate** — Class of 2025
--  **Former SWE Intern** @ iClosed *(Remote)* — Built 6+ production mobile apps
--  Delivered **clean, modular, production-ready** scalable codebases.
--  Currently exploring **Vibe Coding** and **Data Engineering**
+-  **Former SWE Intern** @ iClosed *(Remote)* — Built 6+ production mobile apps.
+-  Delivered **clean, modular & production-ready** scalable codebases.
+-  Currently exploring **Vibe Coding** and **Data Engineering**.
 
 <br/>
 
@@ -50,7 +50,7 @@ System design & scalable backend patterns
 <table>
   <tr>
     <td><b> Mobile</b></td>
-    <td>React Native — cross-platform, production-grade</td>
+    <td>React Native & Flutter — cross-platform, production-grade</td>
   </tr>
   <tr>
     <td><b> Full Stack</b></td>
