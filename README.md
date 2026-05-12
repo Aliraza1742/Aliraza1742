@@ -23,12 +23,12 @@
 ---
 
 <!-- About Me -->
-<img align="right" alt="Coding" width="330" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img align="right" alt="Coding" width="320" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 ### About Me
 
 -  **Computer Science Graduate** — Class of 2025
--  **Former SWE Intern** @ iClosed *(Remote)* — Built 6+ production mobile apps.
+-  **Former SWE Intern** @ iClosed *(Remote)* — Built 6+ production ready mobile apps.
 -  Delivered **clean, modular & production-ready** scalable codebases.
 -  Currently exploring **Vibe Coding** and **Data Engineering**.
 
