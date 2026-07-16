@@ -30,7 +30,7 @@
 -  **Computer Science Graduate** — Class of 2025
 -  **Former SWE Intern** @ iClosed *(Remote)* — Built 6+ production ready Cross-platform mobile apps.
 -  Delivered **clean, modular & production-ready** scalable codebases.
--  Currently exploring **Vibe Coding** and **Data Engineering**.
+-  Currently exploring **Vibe Coding**.
 
 <br/>
 
