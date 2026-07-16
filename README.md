@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+Full-stack+applications;Clean+code.+Strong+architecture.+Real+impact." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+Full-stack+applications." alt="Typing SVG" />
 </p>
 
 <!-- Badges -->
